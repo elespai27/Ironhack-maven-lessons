@@ -1,0 +1,7 @@
+User name: veronic
+User age: 47
+-----
+This is a line
+This is another line
+Name: Verónica, Age: 47
+Name: vero, Age: 47
